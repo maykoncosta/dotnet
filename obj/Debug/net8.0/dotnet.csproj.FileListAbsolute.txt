@@ -1,0 +1,14 @@
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\bin\Debug\net8.0\dotnet.exe
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\bin\Debug\net8.0\dotnet.deps.json
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\bin\Debug\net8.0\dotnet.runtimeconfig.json
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\bin\Debug\net8.0\dotnet.dll
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\bin\Debug\net8.0\dotnet.pdb
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\dotnet.AssemblyInfo.cs
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\dotnet.dll
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\refint\dotnet.dll
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\dotnet.pdb
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
+C:\Users\jose.maykon.b.costa\faculdade\dotnet\obj\Debug\net8.0\ref\dotnet.dll
